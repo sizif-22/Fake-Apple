@@ -1,0 +1,10 @@
+.the-title {
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+.the-title h1 {
+    grid-column: span 3;
+}
+.the-title div {
+    color:brown;
+}
