@@ -16,32 +16,68 @@
                 'menu_class' => 'main-nav-class' 
             ));
             ?>
-            <div class="mac">
-                <h1>Mac menu</h1>
+                       <div class="mac submenus">
+
+
+                       <!-- All of this had to be done with js and DOM -->
+                <div>
+                    <h6>Explore Mac</h6>
+                    <br>
+                    <a href="localhost/fake-apple/mac">Explore All Mac</a>
+                </div>
             </div>
-            <div class="ipad">
-                <h1>ipad menu</h1>
+            <div class="ipad submenus">
+            <div>
+                    <h6>Explore ipad</h6>
+                    <br>
+                    <a href="localhost/fake-apple/ipad">Explore All ipad</a>
+                </div>
             </div>
-            <div class="iphone">
-                <h1>iphone menu</h1>
+            <div class="iphone submenus">
+            <div>
+                    <h6>Explore iphone</h6>
+                    <br>
+                    <a href="localhost/fake-apple/iphone">Explore All iphone</a>
+                </div>
             </div>
-            <div class="watch">
-                <h1>watch menu</h1>
+            <div class="watch submenus">
+            <div>
+                    <h6>Explore watch</h6>
+                    <br>
+                    <a href="localhost/fake-apple/watch">Explore All watch</a>
+                </div>
             </div>
-            <div class="airpods">
-                <h1>airpods menu</h1>
+            <div class="airpods submenus">
+            <div>
+                    <h6>Explore airpods</h6>
+                    <br>
+                    <a href="localhost/fake-apple/airpods">Explore All airpods</a>
+                </div>
             </div>
-            <div class="tv">
-                <h1>TV & Home menu</h1>
+            <div class="tv submenus">
+            <div>
+                    <h6>Explore tv & Home </h6>
+                    <br>
+                    <a href="localhost/fake-apple/tv-home">Explore tv & Home</a>
+                </div>
             </div>
-            <div class="entertain">
-                <h1>entertainment menu</h1>
+            <div class="entertain submenus">
+            <div>
+                    <h6>Explore Entertain</h6>
+                    <br>
+                    <a href="localhost/fake-apple/entertain">Explore Entertain</a>
+                </div>
             </div>
-            <div class="support">
-                <h1>support menu</h1>
+            <div class="support submenus">
+            <div>
+                    <h6>Explore support</h6>
+                    
+                </div>
             </div>
-            <div class="where">
-                <h1>where to buy menu</h1>
+            <div class="where submenus">
+            <div>
+                    <h6>Explore </h6>
+                </div>
             </div>
         </div>
         <div class="fix"></div>

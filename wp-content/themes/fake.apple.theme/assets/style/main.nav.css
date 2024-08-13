@@ -72,6 +72,13 @@
 .menu-main-nav-container div ul li:hover a {
     color: white;
 }
-/* .the-header-container {
-    position: sticky;top: 0;
-} */
+.submenus {
+    padding: 0 20%;
+    display: grid;
+    grid-template-columns: repeat(4, minmax(0, 1fr));
+}
+.submenus a {
+    color: white;
+    font-size: 120%;
+    text-decoration: none;
+}
